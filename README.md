@@ -13,7 +13,7 @@ This application converts HEX numbers to DEC, BIN, and OCT.
 
 ### Debugging the Application
 
-1. Install "Emu8086.exe".
+1. Download and install "Emu8086.exe".
 2. Place the "fasm" folder into the Emu root folder.
 3. Open "Emu8086".
 4. Open "HexConverterWin.asm" or "HexConverter.asm" within the app.
