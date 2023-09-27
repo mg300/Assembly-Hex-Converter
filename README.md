@@ -1,18 +1,20 @@
-# Assembly-Hex-Converter
-Convert HEX to DEC, BIN, OCT
+# Assembly Hex Converter
 
-START APPLICATION
+This application converts HEX numbers to DEC, BIN, and OCT.
 
-Run the file "HexConverter.exe".
--A console window will open.
--Type your HEX number.
--The output values will be displayed.
+## Getting Started
 
+### Running the Application
 
-DEBUG APPLICATION
+1. Run the "HexConverter.exe" file.
+2. A console window will open.
+3. Type your HEX number.
+4. The output values will be displayed.
 
-Install "Emu8086.exe".
--Place the "fasm" folder into the Emu root folder.
--Open "Emu8086".
--Open "HexConverterWin.asm" or "HexConverter.asm" within the app.
--Start the application.
+### Debugging the Application
+
+1. Install "Emu8086.exe".
+2. Place the "fasm" folder into the Emu root folder.
+3. Open "Emu8086".
+4. Open "HexConverterWin.asm" or "HexConverter.asm" within the app.
+5. Start the application.
